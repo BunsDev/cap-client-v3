@@ -1,1 +1,1 @@
-Cap client UI v3
+Cap client UI V3
